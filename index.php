@@ -5,7 +5,7 @@
 
 <?php
 
-echo <h1> "my first time trying PHP!" </h1>;
+echo "my first time trying PHP!";
 
 //I am testing this site.
 
